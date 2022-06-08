@@ -20,3 +20,10 @@ manual
 • Buka browser dengan alamat http://localhost/lab11_ci/ci4/public/
 
 ![img1!](assets/img/1/11.png)
+
+
+## 2. Menjalankan CLI (Command Line Interface)
+Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk
+mengakses CLI buka terminal/command prompt.
+
+![img1!](assets/img/2/1.png)
