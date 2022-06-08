@@ -44,3 +44,18 @@ Tambahkan kode berikut di dalam Routes.php
 Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about
 
 ![img1!](assets/img/4/2.png)
+
+Ketika diakses akan mucul tampilan error 404 file not found, itu artinya file/page
+tersebut tidak ada. Untuk dapat mengakses halaman tersebut, harus dibuat terlebih
+dahulu Contoller yang sesuai dengan routing yang dibuat yaitu Contoller Page.
+
+## 5. Membuat Controller
+Selanjutnya adalah membuat Controller Page. Buat file baru dengan nama page.php
+pada direktori Controller kemudian isi kodenya seperti berikut.
+
+![img1!](assets/img/5/1.png)
+
+Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halaman
+sudah dapat diakses.
+
+![img1!](assets/img/5/2.png)
