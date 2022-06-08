@@ -21,9 +21,14 @@ manual
 
 ![img1!](assets/img/1/11.png)
 
-
 ## 2. Menjalankan CLI (Command Line Interface)
 Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk
 mengakses CLI buka terminal/command prompt.
 
 ![img1!](assets/img/2/1.png)
+
+## 3. Mengaktifkan Mode Debugging
+Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk
+mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program.
+
+![img1!](assets/img/3/1.png)
