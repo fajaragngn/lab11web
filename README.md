@@ -74,3 +74,12 @@ Tambahkan method baru pada Controller Page seperti berikut.
 Method ini belum ada pada routing, sehingga cara mengaksesnya dengan menggunakan alamat: http://localhost:8080/page/tos
 
 ![img1!](assets/img/5/5.png)
+
+## 7. Membuat View
+Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file
+baru dengan nama about.php pada direktori view (app/view/about.php) kemudian isi
+kodenya seperti berikut.
+
+![img1!](assets/img/6/1.png)
+
+Ubah method about pada class Controller Page menjadi seperti berikut:
