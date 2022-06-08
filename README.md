@@ -59,3 +59,18 @@ Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halama
 sudah dapat diakses.
 
 ![img1!](assets/img/5/2.png)
+
+## 6. Auto Routing
+Secara default fitur autoroute pada Codeiginiter sudah aktif. Untuk mengubah status
+autoroute dapat mengubah nilai variabelnya. Untuk menonaktifkan ubah nilai true
+menjadi false.
+
+![img1!](assets/img/5/3.png)
+
+Tambahkan method baru pada Controller Page seperti berikut.
+
+![img1!](assets/img/5/4.png)
+
+Method ini belum ada pada routing, sehingga cara mengaksesnya dengan menggunakan alamat: http://localhost:8080/page/tos
+
+![img1!](assets/img/5/5.png)
