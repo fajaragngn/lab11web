@@ -83,3 +83,9 @@ kodenya seperti berikut.
 ![img1!](assets/img/6/1.png)
 
 Ubah method about pada class Controller Page menjadi seperti berikut:
+
+![img1!](assets/img/6/2.png)
+
+Kemudian lakukan refresh pada halaman tersebut.
+
+![img1!](assets/img/6/3.png)
