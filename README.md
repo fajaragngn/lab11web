@@ -32,3 +32,15 @@ Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk
 mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program.
 
 ![img1!](assets/img/3/1.png)
+
+Ubah nama file env menjadi .env kemudian buka file tersebut dan ubah nilai variable
+CI_ENVIRINMENT menjadi development.
+
+## 4. Membuat Route Baru.
+Tambahkan kode berikut di dalam Routes.php
+
+![img1!](assets/img/4/1.png)
+
+Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about
+
+![img1!](assets/img/4/2.png)
