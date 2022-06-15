@@ -112,3 +112,12 @@ Kemudian ubah file app/view/about.php seperti berikut.
 Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
 ![img1!](assets/img/7/5.png)
+
+# Lab 11 (Lanjutan)
+
+## 1. Membuat Database: Studi Kasus Data Artikel
+
+![img1!](assets/img/11/1.png)
+
+## 2. Konfigurasi koneksi database
+Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server.
