@@ -267,3 +267,8 @@ Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebu
 diakses maka, akan dimuculkan halaman login.
 
 ![img1!](assets/img/12/10.png)
+
+## 8. Fungsi Logout
+Tambahkan method logout pada Controller User seperti berikut:
+
+![img1!](assets/img/12/11.png)
