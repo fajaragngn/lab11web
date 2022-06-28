@@ -138,3 +138,7 @@ Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers.
 Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file baru dengan nama index.php.
 
 ![img1!](assets/img/11/5.png)
+
+Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
+
+![img1!](assets/img/11/6.png)
