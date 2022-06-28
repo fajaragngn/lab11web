@@ -237,3 +237,9 @@ Buat direktori baru dengan nama user pada direktori app/views, kemudian buat fil
 baru dengan nama login.php.
 
 ![img1!](assets/img/12/4.png)
+
+## 5. Membuat Database Seeder
+Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modul
+login, kita perlu memasukkan data user dan password kedaalam database.
+
+![img1!](assets/img/12/5.png)
