@@ -156,7 +156,7 @@ Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berb
 
 ![img1!](assets/img/11/9.png)
 
-## Membuat View Detail
+## 7. Membuat View Detail
 Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 
 ![img1!](assets/img/11/10.png)
@@ -168,7 +168,7 @@ Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artike
 
 ![img1!](assets/img/11/12.png)
 
-## 7. Membuat Menu Admin
+## 8. Membuat Menu Admin
 Menu admin adalah untuk proses CRUD data artikel. Buat method baru pada
 Controller Artikel dengan nama admin_index(). 
 
@@ -186,7 +186,7 @@ Akses menu admin dengan url http://localhost:8080/admin/artikel
 
 ![img1!](assets/img/11/16.png)
 
-## 8.Menambah Data Artikel
+## 9. Menambah Data Artikel
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama add(). 
 
 ![img1!](assets/img/11/17.png)
@@ -197,18 +197,18 @@ Kemudian buat view untuk form tambah dengan nama form_add.php
 
 ![img1!](assets/img/11/19.png)
 
-## 9. Mengubah Data
+## 10. Mengubah Data
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit(). 
 
 ![img1!](assets/img/11/20.png)
 
-## Kemudian buat view untuk form tambah dengan nama form_edit.php
+Kemudian buat view untuk form tambah dengan nama form_edit.php
 
 ![img1!](assets/img/11/21.png)
 
 ![img1!](assets/img/11/22.png)
 
-## 10.Menghapus Data
+## 11. Menghapus Data
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 ![img1!](assets/img/11/23.png)
