@@ -272,3 +272,11 @@ diakses maka, akan dimuculkan halaman login.
 Tambahkan method logout pada Controller User seperti berikut:
 
 ![img1!](assets/img/12/11.png)
+
+# Lab 11 Pagination dan Pencarian
+
+## 1. Membuat Pagination
+Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi
+kode pada method admin_index seperti berikut.
+
+![img1!](assets/img/13/1.png)
