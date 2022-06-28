@@ -219,3 +219,8 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 ## 1. Membuat Tabel User
 
 ![img1!](assets/img/12/1.png)
+
+## 2.Membuat Model User
+Selanjutnya adalah membuat Model untuk memproses data Login. Buat file baru pada direktori app/Models dengan nama UserModel.php
+
+![img1!](assets/img/12/2.png)
