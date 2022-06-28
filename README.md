@@ -247,3 +247,9 @@ login, kita perlu memasukkan data user dan password kedaalam database.
 Uji Coba Login, Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
 
 ![img1!](assets/img/12/6.png)
+
+## 6. Menambahkan Auth Filter
+Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php
+pada direktori app/Filters.
+
+![img1!](assets/img/12/7.png)
