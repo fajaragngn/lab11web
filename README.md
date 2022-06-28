@@ -261,3 +261,9 @@ Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
 Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 
 ![img1!](assets/img/12/9.png)
+
+## 7. Percobaan Akses Menu Admin
+Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut
+diakses maka, akan dimuculkan halaman login.
+
+![img1!](assets/img/12/10.png)
