@@ -236,10 +236,14 @@ login() untuk proses login.
 Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file
 baru dengan nama login.php.
 
-![img1!](assets/img/12/4.png)
+![img1!](assets/img/12/44.png)
 
 ## 5. Membuat Database Seeder
 Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modul
 login, kita perlu memasukkan data user dan password kedaalam database.
 
 ![img1!](assets/img/12/5.png)
+
+Uji Coba Login, Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+
+![img1!](assets/img/12/6.png)
