@@ -220,7 +220,20 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 ![img1!](assets/img/12/1.png)
 
-## 2.Membuat Model User
+## 2. Membuat Model User
 Selanjutnya adalah membuat Model untuk memproses data Login. Buat file baru pada direktori app/Models dengan nama UserModel.php
 
 ![img1!](assets/img/12/2.png)
+
+## 3. Membuat Controller User
+Buat Controller baru dengan nama User.php pada direktori app/Controllers.
+Kemudian tambahkan method index() untuk menampilkan daftar user, dan method
+login() untuk proses login.
+
+![img1!](assets/img/12/3.png)
+
+## 4. Membuat View Login
+Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file
+baru dengan nama login.php.
+
+![img1!](assets/img/12/4.png)
