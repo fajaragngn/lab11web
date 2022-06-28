@@ -121,3 +121,20 @@ Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
 ## 2. Konfigurasi koneksi database
 Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server.
+
+![img1!](assets/img/11/2.png)
+
+## 3. Membuat Model
+Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file baru pada direktori app/Models dengan nama ArtikelModel.php
+
+![img1!](assets/img/11/3.png)
+
+## 4. Membuat Controller
+Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers.
+
+![img1!](assets/img/11/4.png)
+
+## 5. Membuat View
+Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file baru dengan nama index.php.
+
+![img1!](assets/img/11/5.png)
