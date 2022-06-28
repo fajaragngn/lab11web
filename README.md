@@ -207,3 +207,8 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit().
 ![img1!](assets/img/11/21.png)
 
 ![img1!](assets/img/11/22.png)
+
+## 10.Menghapus Data
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
+
+![img1!](assets/img/11/23.png)
