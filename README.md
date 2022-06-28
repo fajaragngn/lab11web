@@ -215,3 +215,7 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 
 # Lab 11 Framework Lanjutan (Modul Login)
+
+## 1. Membuat Tabel User
+
+![img1!](assets/img/12/1.png)
