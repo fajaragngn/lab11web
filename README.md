@@ -201,3 +201,9 @@ Kemudian buat view untuk form tambah dengan nama form_add.php
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit(). 
 
 ![img1!](assets/img/11/20.png)
+
+## Kemudian buat view untuk form tambah dengan nama form_edit.php
+
+![img1!](assets/img/11/21.png)
+
+![img1!](assets/img/11/22.png)
