@@ -142,3 +142,11 @@ Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat 
 Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
 
 ![img1!](assets/img/11/6.png)
+
+Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada database agar dapat ditampilkan datanya.
+
+![img1!](assets/img/11/7.png)
+
+Refresh kembali browser, sehingga akan ditampilkan hasilnya.
+
+![img1!](assets/img/11/8.png)
