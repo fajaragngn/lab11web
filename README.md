@@ -253,3 +253,11 @@ Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.p
 pada direktori app/Filters.
 
 ![img1!](assets/img/12/7.png)
+
+Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+
+![img1!](assets/img/12/8.png)
+
+Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
+
+![img1!](assets/img/12/9.png)
