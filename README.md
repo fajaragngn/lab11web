@@ -212,3 +212,6 @@ Kemudian buat view untuk form tambah dengan nama form_edit.php
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 ![img1!](assets/img/11/23.png)
+
+
+# Lab 11 Framework Lanjutan (Modul Login)
