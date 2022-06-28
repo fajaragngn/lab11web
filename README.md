@@ -150,3 +150,13 @@ Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada datab
 Refresh kembali browser, sehingga akan ditampilkan hasilnya.
 
 ![img1!](assets/img/11/8.png)
+
+## 6. Membuat Tampilan Detail Artikel
+Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berbeda. Tambahkan fungsi baru pada Controller Artikel dengan nama view().
+
+![img1!](assets/img/11/9.png)
+
+## Membuat View Detail
+Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
+
+![img1!](assets/img/11/10.png)
