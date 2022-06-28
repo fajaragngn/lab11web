@@ -185,3 +185,14 @@ Tambahkan routing untuk menu admin seperti berikut:
 Akses menu admin dengan url http://localhost:8080/admin/artikel
 
 ![img1!](assets/img/11/16.png)
+
+## 8.Menambah Data Artikel
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama add(). 
+
+![img1!](assets/img/11/17.png)
+
+Kemudian buat view untuk form tambah dengan nama form_add.php
+
+![img1!](assets/img/11/18.png)
+
+![img1!](assets/img/11/19.png)
