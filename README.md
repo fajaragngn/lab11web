@@ -280,3 +280,11 @@ Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi
 kode pada method admin_index seperti berikut.
 
 ![img1!](assets/img/13/1.png)
+
+Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
+
+![img1!](assets/img/13/2.png)
+
+Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya.
+
+![img1!](assets/img/13/3.png)
