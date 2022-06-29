@@ -288,3 +288,8 @@ Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut diba
 Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya.
 
 ![img1!](assets/img/13/3.png)
+
+## 2. Membuat Pencarian
+Pencarian data digunakan untuk memfilter data.
+
+![img1!](assets/img/13/4.png)
