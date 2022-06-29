@@ -305,3 +305,20 @@ Dan pada link pager ubah seperti berikut.
 Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
 
 ![img1!](assets/img/13/7.png)
+
+## 3. Upload Gambar
+Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+
+![img1!](assets/img/13/8.png)
+
+Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti berikut.
+
+![img1!](assets/img/13/9.png)
+
+Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut.
+
+![img1!](assets/img/13/10.png)
+
+Ujicoba file upload dengan mengakses menu tambah artikel.
+
+![img1!](assets/img/13/11.png)
