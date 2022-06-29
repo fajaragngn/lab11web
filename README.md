@@ -293,3 +293,15 @@ Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat 
 Pencarian data digunakan untuk memfilter data.
 
 ![img1!](assets/img/13/4.png)
+
+Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti berikut:
+
+![img1!](assets/img/13/5.png)
+
+Dan pada link pager ubah seperti berikut.
+
+![img1!](assets/img/13/6.png)
+
+Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
+
+![img1!](assets/img/13/7.png)
